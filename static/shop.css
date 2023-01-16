@@ -1,0 +1,32 @@
+img:hover{
+    opacity:0.5;
+    transition:0.3s;
+  }
+  
+  button:hover{
+    transition:0.3s;
+  }
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+body {
+    margin: 0;
+    padding: 0;
+    background: #DDD;
+    font-size: 16px;
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-image: url("Report\ photo\ final.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+  }
+select{
+    height: 70px;
+    border-radius: 4px;
+
+}
+
